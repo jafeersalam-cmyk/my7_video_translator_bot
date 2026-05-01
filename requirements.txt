@@ -2,3 +2,5 @@ python-telegram-bot==20.7
 openai-whisper
 deep-translator
 ffmpeg-python
+torch
+numpy
